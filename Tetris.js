@@ -55,6 +55,7 @@ const BLOCK_COLORS = [
 	"#F44",			// 6.赤
 	"#5B5"			// 7.緑
 ];
+
 const BLOCK_SPEED = 1000;
 
 function reload() {
