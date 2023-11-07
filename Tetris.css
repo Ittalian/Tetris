@@ -1,0 +1,51 @@
+html,body {
+    margin: auto;
+	padding: 0;
+	font-size: 15px;
+	overflow-x: hidden;
+}
+
+body {
+	font-family: "Noto Serif JP", "Hiragino Mincho Pro", "ヒラギノ明朝 Pro W3", "HGS明朝E", "ＭＳ Ｐ明朝", "MS PMincho", serif;	/*フォント種類*/
+	background: #c2b9be;
+	color: #000000;
+	margin-left: 3%;
+}
+
+h1 {
+	text-align: center;
+}
+
+canvas {
+	background-color: #ffffff;
+	display: block;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	margin: auto;
+}
+
+button {
+  width: 200px;
+  height: 50px;
+  appearance: none;
+  border: 0;
+  border-radius: 5px;
+  background: #4676D7;
+  color: #fff;
+  padding: 8px 16px;
+  font-size: 16px;
+  margin: auto;
+}
+
+button:hover {
+	color: #ffffff;
+	background-color: #2123a5;
+}
+
+table{
+	margin:auto;
+	padding: 1%;
+}
+
